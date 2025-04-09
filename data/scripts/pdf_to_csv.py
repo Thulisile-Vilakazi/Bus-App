@@ -1,0 +1,1 @@
+#This script will read the data in the schedules pdf, transform it to cvs and write it into the csv file
