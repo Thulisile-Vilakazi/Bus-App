@@ -9,3 +9,10 @@ schedule_dict = {
     {"stop": "CLARA ANNA FONTEIN", "time": "--"}
   ]
 }
+
+# Keys to be implemented and explained
+# a = Monday–Thursday
+
+# b = Friday
+
+# via = Pass-through
